@@ -27,7 +27,7 @@ namespace HomeWork_1
             a1.NewNumerator(7);
             a1.NewDenominator(8);
             Console.WriteLine($"Вывод дроби: {a1.GetFraction()}");
-            Console.WriteLine($"Получение числа по индексу 0: {a1.GetIndex(a1, 0)}");
+            Console.WriteLine($"Получение числа по индексу 0: {a1[0]}");
         }
         public static void RepfanConsoleN(Drob inFrac, double int2)
         {
@@ -143,10 +143,9 @@ namespace HomeWork_1
             this.denominator = denominator;
         }
         //5
-        public double GetIndex(Drob incorrectFractions, int index)
+        public double this[int index]
         {
-            List<double> fractions = new List<double> { this.numerator, this.denominator };
-            return (fractions[index]);
+            get { return (index == 0) ? numerator : denominator; }
         }
 
         public String GetFraction()

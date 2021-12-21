@@ -12,3 +12,17 @@ C:\Users\shah-\source\repos\HomeWork_1\HomeWork_1\obj\Debug\netcoreapp3.1\HomeWo
 C:\Users\shah-\source\repos\HomeWork_1\HomeWork_1\obj\Debug\netcoreapp3.1\HomeWork_1.dll
 C:\Users\shah-\source\repos\HomeWork_1\HomeWork_1\obj\Debug\netcoreapp3.1\HomeWork_1.pdb
 C:\Users\shah-\source\repos\HomeWork_1\HomeWork_1\obj\Debug\netcoreapp3.1\HomeWork_1.genruntimeconfig.cache
+D:\2021-2022\RPM LR\HomeWork_1\HomeWork_1\bin\Debug\netcoreapp3.1\HomeWork_1.exe
+D:\2021-2022\RPM LR\HomeWork_1\HomeWork_1\bin\Debug\netcoreapp3.1\HomeWork_1.deps.json
+D:\2021-2022\RPM LR\HomeWork_1\HomeWork_1\bin\Debug\netcoreapp3.1\HomeWork_1.runtimeconfig.json
+D:\2021-2022\RPM LR\HomeWork_1\HomeWork_1\bin\Debug\netcoreapp3.1\HomeWork_1.runtimeconfig.dev.json
+D:\2021-2022\RPM LR\HomeWork_1\HomeWork_1\bin\Debug\netcoreapp3.1\HomeWork_1.dll
+D:\2021-2022\RPM LR\HomeWork_1\HomeWork_1\bin\Debug\netcoreapp3.1\HomeWork_1.pdb
+D:\2021-2022\RPM LR\HomeWork_1\HomeWork_1\obj\Debug\netcoreapp3.1\HomeWork_1.csproj.AssemblyReference.cache
+D:\2021-2022\RPM LR\HomeWork_1\HomeWork_1\obj\Debug\netcoreapp3.1\HomeWork_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021-2022\RPM LR\HomeWork_1\HomeWork_1\obj\Debug\netcoreapp3.1\HomeWork_1.AssemblyInfoInputs.cache
+D:\2021-2022\RPM LR\HomeWork_1\HomeWork_1\obj\Debug\netcoreapp3.1\HomeWork_1.AssemblyInfo.cs
+D:\2021-2022\RPM LR\HomeWork_1\HomeWork_1\obj\Debug\netcoreapp3.1\HomeWork_1.csproj.CoreCompileInputs.cache
+D:\2021-2022\RPM LR\HomeWork_1\HomeWork_1\obj\Debug\netcoreapp3.1\HomeWork_1.dll
+D:\2021-2022\RPM LR\HomeWork_1\HomeWork_1\obj\Debug\netcoreapp3.1\HomeWork_1.pdb
+D:\2021-2022\RPM LR\HomeWork_1\HomeWork_1\obj\Debug\netcoreapp3.1\HomeWork_1.genruntimeconfig.cache
